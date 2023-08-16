@@ -12,6 +12,7 @@ export default function HomePage () {
         <Timer title="Comer" category="Salud" className="bg-sky-500" />
         <Timer title="Trabajar" category="Obligatorio" className="bg-emerald-500" />
         <Timer title="Estuadiar" category="Obligatorio" className="bg-amber-500" />
+        <Timer title="Equipar" category="Obligatorio" className="bg-amber-500" />
       </section>
       <footer>Footer</footer>
     </main>
